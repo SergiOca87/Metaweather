@@ -1,4 +1,3 @@
-import "babel-polyfill";
 
 async function getWeatherAW( woeid ){
 	try{
